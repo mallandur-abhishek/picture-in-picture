@@ -1,2 +1,4 @@
 # picture-in-picture
-Simple picture-in-picture javascript
+Picture-in-picture feature illustration in javascript
+
+[DEMO](https://mallandur-abhishek.github.io/picture-in-picture/)
